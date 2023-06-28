@@ -24,4 +24,4 @@ The information was provided by a set of tables containing data:
 ## Sources & Visualizations
 The source of the data was provided to me from Rockbuster.  Visualizations were created using Excel and Tableau.  
 
-The link for the Tableau visualizations is [Rockbuster Customer Count Worldwide | Tableau Public ![image](https://github.com/Skodad/SkodaSQL/assets/137243948/9d4be40a-2637-414f-8f24-f5d22d6aa25e)]
+The link for the Tableau visualizations is [Rockbuster Customer Count Worldwide] (https://github.com/Skodad/SkodaSQL/assets/137243948/9d4be40a-2637-414f-8f24-f5d22d6aa25e)
